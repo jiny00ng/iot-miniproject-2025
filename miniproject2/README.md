@@ -84,14 +84,14 @@ ERD
 4. WPF 애니메이션 기능으로 컨베이어벨트 구현
 
 
-
 https://github.com/user-attachments/assets/05e5fc57-9f08-4fd4-a8b8-02aa1909a7c3
 
 
+5. 선별결과 MQTT로 전달 기능 추가
 
 ##### MQTT Subscriber
-- WPF 과목에서 사용했던 MQTT Subscribere 그대로 사용
-- 
+- WPF 과목에서 사용했던 MQTT Subscriber 그대로 사용
+- WpfMqttSubApp 프로젝트 가져오기
 - SmartHome 작업했던 부분 수정 및 DB 저장부분 추가
 
 ##### WPF 공정관리 앱 개발
