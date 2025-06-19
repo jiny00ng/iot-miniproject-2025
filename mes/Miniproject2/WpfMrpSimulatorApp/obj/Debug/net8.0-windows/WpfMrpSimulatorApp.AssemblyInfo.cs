@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WpfMrpSimulatorApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f81379bbaaacfbcfd2d7e88e60df9ec9826f3cb4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef445543dedbf51a45192c16f775319ca8c3fc72")]
 [assembly: System.Reflection.AssemblyProductAttribute("WpfMrpSimulatorApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WpfMrpSimulatorApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
