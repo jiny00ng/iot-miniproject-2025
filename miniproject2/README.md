@@ -94,7 +94,12 @@ https://github.com/user-attachments/assets/05e5fc57-9f08-4fd4-a8b8-02aa1909a7c3
 - WpfMqttSubApp 프로젝트 가져오기
 - SmartHome 작업했던 부분 수정 및 DB 저장부분 추가
 
+1. 서비스 실행 중 확인
+    - 콘솔에서 `telnet ip주소 포트번호` -> 화면이 전화되면 접속성공
+2. 
+
 ##### WPF 공정관리 앱 개발
+-
 
 #### 파이썬 AI + ASP.NET 연동
 - 참조소스
