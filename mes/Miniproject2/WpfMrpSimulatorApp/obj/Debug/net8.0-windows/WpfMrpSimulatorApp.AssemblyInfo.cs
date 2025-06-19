@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("WpfIoTSimulatorApp")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("WpfMrpSimulatorApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2214596f90fd6695008f28f30901121e4134445")]
-[assembly: System.Reflection.AssemblyProductAttribute("WpfIoTSimulatorApp")]
-[assembly: System.Reflection.AssemblyTitleAttribute("WpfIoTSimulatorApp")]
+[assembly: System.Reflection.AssemblyProductAttribute("WpfMrpSimulatorApp")]
+[assembly: System.Reflection.AssemblyTitleAttribute("WpfMrpSimulatorApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]
