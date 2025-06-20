@@ -110,6 +110,12 @@ https://github.com/user-attachments/assets/05e5fc57-9f08-4fd4-a8b8-02aa1909a7c3
 - 기본적인 DB관리 앱 + 실시간 공정 모니터링 + 리포트 시각화
 
 1. CoummunityToolkit.Mvvm. MahApps.Metro 초기 설정
+2. MainView.xaml UI 디자인
+3. SettingView.xaml 생성
+4. Helpers.Common 클래스 정적 인스턴스 변수 
+5. SettingView 화면 UI 구현 
+6. SettingViewModel과 연동 작업
+7. Model DB 테이블 클래스 가져오기
 
 #### 파이썬 AI + ASP.NET 연동
 - 참조소스
