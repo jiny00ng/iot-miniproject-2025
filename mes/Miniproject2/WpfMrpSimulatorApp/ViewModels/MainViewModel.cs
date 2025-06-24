@@ -1,9 +1,11 @@
 ﻿using CommunityToolkit.Mvvm.ComponentModel;
 using CommunityToolkit.Mvvm.Input;
 using MahApps.Metro.Controls.Dialogs;
+using Microsoft.EntityFrameworkCore;
 using System.Windows;
 using System.Windows.Controls;
 using WpfMrpSimulatorApp.Helpers;
+using WpfMrpSimulatorApp.Models;
 using WpfMrpSimulatorApp.Views;
 
 namespace WpfMrpSimulatorApp.ViewModels
@@ -12,6 +14,7 @@ namespace WpfMrpSimulatorApp.ViewModels
     {
         // 다이얼로그 코디네이터 변수 선언
         private readonly IDialogCoordinator dialogCoordinator;
+        
 
         public string _greeting;
         private UserControl _currentView;
@@ -19,6 +22,8 @@ namespace WpfMrpSimulatorApp.ViewModels
         public MainViewModel(IDialogCoordinator coordinator)
         {
             this.dialogCoordinator = coordinator;   // dialogcoordinator 초기화
+
+            
 
             Greeting = "MRP 공정관리!";
         }

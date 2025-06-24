@@ -5,9 +5,6 @@ namespace WpfMrpSimulatorApp.Models;
 
 public partial class Schedule
 {
-    /// <summary>
-    /// 공정계획 순번(자동증가)
-    /// </summary>
     public int SchIdx { get; set; }
 
     /// <summary>
@@ -21,18 +18,15 @@ public partial class Schedule
     public DateOnly SchDate { get; set; }
 
     /// <summary>
-    /// 로드타임(초)
+    /// 초
     /// </summary>
     public int LoadTime { get; set; }
 
     /// <summary>
-    /// 계획 시작시간
+    /// 계획된 시작 시간
     /// </summary>
     public TimeOnly? SchStartTime { get; set; }
 
-    /// <summary>
-    /// 계획 종료시간
-    /// </summary>
     public TimeOnly? SchEndTime { get; set; }
 
     /// <summary>
@@ -41,9 +35,9 @@ public partial class Schedule
     public string? SchFacilityId { get; set; }
 
     /// <summary>
-    /// 계획목표수량
+    /// 계획 목표 수량
     /// </summary>
-    public int SchAmount { get; set; }
+    public string? SchAmount { get; set; }
 
     /// <summary>
     /// 작성일
