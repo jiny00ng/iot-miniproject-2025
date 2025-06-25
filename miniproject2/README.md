@@ -129,7 +129,18 @@ https://github.com/user-attachments/assets/05e5fc57-9f08-4fd4-a8b8-02aa1909a7c3
     - Microsoft.EntityFrameworkCore.Tools
     - Pomelo.EntityFrameworkCore.MySql
 
-#### 파이썬 AI + ASP.NET 연동
+12. ScheduleViewModel EntityFramework DB연동 처리
+
+    <img src="../image/mp0006.png" width="600">
+
+13. MonitoringView, MonitoringViewModel 생성
+14. WpfIoTSimulatorApp 화면 이전
+15. Monitoring DB연동, MQTT통신, 애니메이션 작업
+16. MQTT로 전송된 공정 성공/실패 여부 DB 저장작업
+
+17. ReportView, ReportViewModel 작업
+
+#### 파이썬 AI + ASP.NET 연동(나중에)
 - 참조소스
 - iot-webapp-2025/ref/ReferencedSolution/ConvertWebApp
 - hungout-with-springboot/003_aicombo/

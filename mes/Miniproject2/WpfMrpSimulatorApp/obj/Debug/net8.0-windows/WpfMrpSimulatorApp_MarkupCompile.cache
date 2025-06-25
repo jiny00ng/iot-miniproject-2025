@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 C:\source\iot-miniproject-2025\mes\Miniproject2\WpfMrpSimulatorApp\App.xaml
-3-1864799460
+4-755883250
 11506488856
-15-2037720286
+19-1817507440
 264745551532
-Views\MainView.xaml;Views\ScheduleView.xaml;Views\SettingView.xaml;
+Views\MainView.xaml;Views\MonitoringView.xaml;Views\ScheduleView.xaml;Views\SettingView.xaml;
 
 False
 

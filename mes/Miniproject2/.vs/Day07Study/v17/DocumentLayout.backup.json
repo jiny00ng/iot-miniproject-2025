@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\source\\iot-wpf-2025\\day07\\Day07Study\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A66BF6F8-55F3-4D9D-B919-D4FC5D1A9B22}|BusanRestaurantApp\\BusanRestaurantApp.csproj|c:\\source\\iot-wpf-2025\\day07\\day07study\\busanrestaurantapp\\viewmodels\\busanmatjibviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66BF6F8-55F3-4D9D-B919-D4FC5D1A9B22}|BusanRestaurantApp\\BusanRestaurantApp.csproj|solutionrelative:busanrestaurantapp\\viewmodels\\busanmatjibviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66BF6F8-55F3-4D9D-B919-D4FC5D1A9B22}|BusanRestaurantApp\\BusanRestaurantApp.csproj|c:\\source\\iot-wpf-2025\\day07\\day07study\\busanrestaurantapp\\views\\busanmatjibview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A66BF6F8-55F3-4D9D-B919-D4FC5D1A9B22}|BusanRestaurantApp\\BusanRestaurantApp.csproj|solutionrelative:busanrestaurantapp\\views\\busanmatjibview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66BF6F8-55F3-4D9D-B919-D4FC5D1A9B22}|BusanRestaurantApp\\BusanRestaurantApp.csproj|c:\\source\\iot-wpf-2025\\day07\\day07study\\busanrestaurantapp\\views\\googlemapview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66BF6F8-55F3-4D9D-B919-D4FC5D1A9B22}|BusanRestaurantApp\\BusanRestaurantApp.csproj|solutionrelative:busanrestaurantapp\\views\\googlemapview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66BF6F8-55F3-4D9D-B919-D4FC5D1A9B22}|BusanRestaurantApp\\BusanRestaurantApp.csproj|c:\\source\\iot-wpf-2025\\day07\\day07study\\busanrestaurantapp\\views\\googlemapview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A66BF6F8-55F3-4D9D-B919-D4FC5D1A9B22}|BusanRestaurantApp\\BusanRestaurantApp.csproj|solutionrelative:busanrestaurantapp\\views\\googlemapview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66BF6F8-55F3-4D9D-B919-D4FC5D1A9B22}|BusanRestaurantApp\\BusanRestaurantApp.csproj|c:\\source\\iot-wpf-2025\\day07\\day07study\\busanrestaurantapp\\viewmodels\\googlemapviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66BF6F8-55F3-4D9D-B919-D4FC5D1A9B22}|BusanRestaurantApp\\BusanRestaurantApp.csproj|solutionrelative:busanrestaurantapp\\viewmodels\\googlemapviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66BF6F8-55F3-4D9D-B919-D4FC5D1A9B22}|BusanRestaurantApp\\BusanRestaurantApp.csproj|c:\\source\\iot-wpf-2025\\day07\\day07study\\busanrestaurantapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A66BF6F8-55F3-4D9D-B919-D4FC5D1A9B22}|BusanRestaurantApp\\BusanRestaurantApp.csproj|solutionrelative:busanrestaurantapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66BF6F8-55F3-4D9D-B919-D4FC5D1A9B22}|BusanRestaurantApp\\BusanRestaurantApp.csproj|c:\\source\\iot-wpf-2025\\day07\\day07study\\busanrestaurantapp\\busanrestaurantapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A66BF6F8-55F3-4D9D-B919-D4FC5D1A9B22}|BusanRestaurantApp\\BusanRestaurantApp.csproj|solutionrelative:busanrestaurantapp\\busanrestaurantapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66BF6F8-55F3-4D9D-B919-D4FC5D1A9B22}|BusanRestaurantApp\\BusanRestaurantApp.csproj|c:\\source\\iot-wpf-2025\\day07\\day07study\\busanrestaurantapp\\models\\busanitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66BF6F8-55F3-4D9D-B919-D4FC5D1A9B22}|BusanRestaurantApp\\BusanRestaurantApp.csproj|solutionrelative:busanrestaurantapp\\models\\busanitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66BF6F8-55F3-4D9D-B919-D4FC5D1A9B22}|BusanRestaurantApp\\BusanRestaurantApp.csproj|c:\\source\\iot-wpf-2025\\day07\\day07study\\busanrestaurantapp\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A66BF6F8-55F3-4D9D-B919-D4FC5D1A9B22}|BusanRestaurantApp\\BusanRestaurantApp.csproj|solutionrelative:busanrestaurantapp\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GoogleMapView.xaml.cs",
+              "DocumentMoniker": "C:\\source\\iot-wpf-2025\\day07\\Day07Study\\BusanRestaurantApp\\Views\\GoogleMapView.xaml.cs",
+              "RelativeDocumentMoniker": "BusanRestaurantApp\\Views\\GoogleMapView.xaml.cs",
+              "ToolTip": "C:\\source\\iot-wpf-2025\\day07\\Day07Study\\BusanRestaurantApp\\Views\\GoogleMapView.xaml.cs",
+              "RelativeToolTip": "BusanRestaurantApp\\Views\\GoogleMapView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T04:52:03.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\source\\iot-wpf-2025\\day07\\Day07Study\\BusanRestaurantApp\\App.xaml",
+              "RelativeDocumentMoniker": "BusanRestaurantApp\\App.xaml",
+              "ToolTip": "C:\\source\\iot-wpf-2025\\day07\\Day07Study\\BusanRestaurantApp\\App.xaml",
+              "RelativeToolTip": "BusanRestaurantApp\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-16T03:23:19.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GoogleMapViewModel.cs",
+              "DocumentMoniker": "C:\\source\\iot-wpf-2025\\day07\\Day07Study\\BusanRestaurantApp\\ViewModels\\GoogleMapViewModel.cs",
+              "RelativeDocumentMoniker": "BusanRestaurantApp\\ViewModels\\GoogleMapViewModel.cs",
+              "ToolTip": "C:\\source\\iot-wpf-2025\\day07\\Day07Study\\BusanRestaurantApp\\ViewModels\\GoogleMapViewModel.cs",
+              "RelativeToolTip": "BusanRestaurantApp\\ViewModels\\GoogleMapViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T03:20:14.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BusanItem.cs",
+              "DocumentMoniker": "C:\\source\\iot-wpf-2025\\day07\\Day07Study\\BusanRestaurantApp\\Models\\BusanItem.cs",
+              "RelativeDocumentMoniker": "BusanRestaurantApp\\Models\\BusanItem.cs",
+              "ToolTip": "C:\\source\\iot-wpf-2025\\day07\\Day07Study\\BusanRestaurantApp\\Models\\BusanItem.cs",
+              "RelativeToolTip": "BusanRestaurantApp\\Models\\BusanItem.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwC8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T02:21:07.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NLog.config",
+              "DocumentMoniker": "C:\\source\\iot-wpf-2025\\day07\\Day07Study\\BusanRestaurantApp\\NLog.config",
+              "RelativeDocumentMoniker": "BusanRestaurantApp\\NLog.config",
+              "ToolTip": "C:\\source\\iot-wpf-2025\\day07\\Day07Study\\BusanRestaurantApp\\NLog.config",
+              "RelativeToolTip": "BusanRestaurantApp\\NLog.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-16T02:15:04.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BusanMatjibViewModel.cs",
+              "DocumentMoniker": "C:\\source\\iot-wpf-2025\\day07\\Day07Study\\BusanRestaurantApp\\ViewModels\\BusanMatjibViewModel.cs",
+              "RelativeDocumentMoniker": "BusanRestaurantApp\\ViewModels\\BusanMatjibViewModel.cs",
+              "ToolTip": "C:\\source\\iot-wpf-2025\\day07\\Day07Study\\BusanRestaurantApp\\ViewModels\\BusanMatjibViewModel.cs*",
+              "RelativeToolTip": "BusanRestaurantApp\\ViewModels\\BusanMatjibViewModel.cs*",
+              "ViewState": "AgIAADsAAAAAAAAAAAAQwGsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T02:05:54.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BusanRestaurantApp",
+              "DocumentMoniker": "C:\\source\\iot-wpf-2025\\day07\\Day07Study\\BusanRestaurantApp\\BusanRestaurantApp.csproj",
+              "RelativeDocumentMoniker": "BusanRestaurantApp\\BusanRestaurantApp.csproj",
+              "ToolTip": "C:\\source\\iot-wpf-2025\\day07\\Day07Study\\BusanRestaurantApp\\BusanRestaurantApp.csproj",
+              "RelativeToolTip": "BusanRestaurantApp\\BusanRestaurantApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-16T01:28:37.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BusanMatjibView.xaml",
+              "DocumentMoniker": "C:\\source\\iot-wpf-2025\\day07\\Day07Study\\BusanRestaurantApp\\Views\\BusanMatjibView.xaml",
+              "RelativeDocumentMoniker": "BusanRestaurantApp\\Views\\BusanMatjibView.xaml",
+              "ToolTip": "C:\\source\\iot-wpf-2025\\day07\\Day07Study\\BusanRestaurantApp\\Views\\BusanMatjibView.xaml",
+              "RelativeToolTip": "BusanRestaurantApp\\Views\\BusanMatjibView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-16T01:26:46.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GoogleMapView.xaml",
+              "DocumentMoniker": "C:\\source\\iot-wpf-2025\\day07\\Day07Study\\BusanRestaurantApp\\Views\\GoogleMapView.xaml",
+              "RelativeDocumentMoniker": "BusanRestaurantApp\\Views\\GoogleMapView.xaml",
+              "ToolTip": "C:\\source\\iot-wpf-2025\\day07\\Day07Study\\BusanRestaurantApp\\Views\\GoogleMapView.xaml",
+              "RelativeToolTip": "BusanRestaurantApp\\Views\\GoogleMapView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-16T01:26:43.61Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\source\\iot-wpf-2025\\day08\\Day08Study\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7880E1-BF33-51DA-CD02-A78A863232FC}|WpfSmartHomeApp\\WpfSmartHomeApp.csproj|c:\\source\\iot-wpf-2025\\day08\\day08study\\wpfsmarthomeapp\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8B7880E1-BF33-51DA-CD02-A78A863232FC}|WpfSmartHomeApp\\WpfSmartHomeApp.csproj|solutionrelative:wpfsmarthomeapp\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7880E1-BF33-51DA-CD02-A78A863232FC}|WpfSmartHomeApp\\WpfSmartHomeApp.csproj|c:\\source\\iot-wpf-2025\\day08\\day08study\\wpfsmarthomeapp\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B7880E1-BF33-51DA-CD02-A78A863232FC}|WpfSmartHomeApp\\WpfSmartHomeApp.csproj|solutionrelative:wpfsmarthomeapp\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7880E1-BF33-51DA-CD02-A78A863232FC}|WpfSmartHomeApp\\WpfSmartHomeApp.csproj|c:\\source\\iot-wpf-2025\\day08\\day08study\\wpfsmarthomeapp\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B7880E1-BF33-51DA-CD02-A78A863232FC}|WpfSmartHomeApp\\WpfSmartHomeApp.csproj|solutionrelative:wpfsmarthomeapp\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7880E1-BF33-51DA-CD02-A78A863232FC}|WpfSmartHomeApp\\WpfSmartHomeApp.csproj|c:\\source\\iot-wpf-2025\\day08\\day08study\\wpfsmarthomeapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B7880E1-BF33-51DA-CD02-A78A863232FC}|WpfSmartHomeApp\\WpfSmartHomeApp.csproj|solutionrelative:wpfsmarthomeapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7880E1-BF33-51DA-CD02-A78A863232FC}|WpfSmartHomeApp\\WpfSmartHomeApp.csproj|c:\\source\\iot-wpf-2025\\day08\\day08study\\wpfsmarthomeapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8B7880E1-BF33-51DA-CD02-A78A863232FC}|WpfSmartHomeApp\\WpfSmartHomeApp.csproj|solutionrelative:wpfsmarthomeapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7880E1-BF33-51DA-CD02-A78A863232FC}|WpfSmartHomeApp\\WpfSmartHomeApp.csproj|c:\\source\\iot-wpf-2025\\day08\\day08study\\wpfsmarthomeapp\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B7880E1-BF33-51DA-CD02-A78A863232FC}|WpfSmartHomeApp\\WpfSmartHomeApp.csproj|solutionrelative:wpfsmarthomeapp\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66BF6F8-55F3-4D9D-B919-D4FC5D1A9B22}|BusanRestaurantApp\\BusanRestaurantApp.csproj|c:\\source\\iot-wpf-2025\\day08\\day08study\\busanrestaurantapp\\viewmodels\\googlemapviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66BF6F8-55F3-4D9D-B919-D4FC5D1A9B22}|BusanRestaurantApp\\BusanRestaurantApp.csproj|solutionrelative:busanrestaurantapp\\viewmodels\\googlemapviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66BF6F8-55F3-4D9D-B919-D4FC5D1A9B22}|BusanRestaurantApp\\BusanRestaurantApp.csproj|c:\\source\\iot-wpf-2025\\day08\\day08study\\busanrestaurantapp\\views\\googlemapview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A66BF6F8-55F3-4D9D-B919-D4FC5D1A9B22}|BusanRestaurantApp\\BusanRestaurantApp.csproj|solutionrelative:busanrestaurantapp\\views\\googlemapview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66BF6F8-55F3-4D9D-B919-D4FC5D1A9B22}|BusanRestaurantApp\\BusanRestaurantApp.csproj|c:\\source\\iot-wpf-2025\\day08\\day08study\\busanrestaurantapp\\busanrestaurantapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A66BF6F8-55F3-4D9D-B919-D4FC5D1A9B22}|BusanRestaurantApp\\BusanRestaurantApp.csproj|solutionrelative:busanrestaurantapp\\busanrestaurantapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66BF6F8-55F3-4D9D-B919-D4FC5D1A9B22}|BusanRestaurantApp\\BusanRestaurantApp.csproj|c:\\source\\iot-wpf-2025\\day08\\day08study\\busanrestaurantapp\\views\\busanmatjibview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A66BF6F8-55F3-4D9D-B919-D4FC5D1A9B22}|BusanRestaurantApp\\BusanRestaurantApp.csproj|solutionrelative:busanrestaurantapp\\views\\busanmatjibview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66BF6F8-55F3-4D9D-B919-D4FC5D1A9B22}|BusanRestaurantApp\\BusanRestaurantApp.csproj|c:\\source\\iot-wpf-2025\\day08\\day08study\\busanrestaurantapp\\views\\busanmatjibview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66BF6F8-55F3-4D9D-B919-D4FC5D1A9B22}|BusanRestaurantApp\\BusanRestaurantApp.csproj|solutionrelative:busanrestaurantapp\\views\\busanmatjibview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66BF6F8-55F3-4D9D-B919-D4FC5D1A9B22}|BusanRestaurantApp\\BusanRestaurantApp.csproj|c:\\source\\iot-wpf-2025\\day08\\day08study\\busanrestaurantapp\\viewmodels\\busanmatjibviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66BF6F8-55F3-4D9D-B919-D4FC5D1A9B22}|BusanRestaurantApp\\BusanRestaurantApp.csproj|solutionrelative:busanrestaurantapp\\viewmodels\\busanmatjibviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\source\\iot-wpf-2025\\day08\\Day08Study\\WpfSmartHomeApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "WpfSmartHomeApp\\App.xaml.cs",
+              "ToolTip": "C:\\source\\iot-wpf-2025\\day08\\Day08Study\\WpfSmartHomeApp\\App.xaml.cs",
+              "RelativeToolTip": "WpfSmartHomeApp\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T05:12:11.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\source\\iot-wpf-2025\\day08\\Day08Study\\WpfSmartHomeApp\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "WpfSmartHomeApp\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\source\\iot-wpf-2025\\day08\\Day08Study\\WpfSmartHomeApp\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "WpfSmartHomeApp\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAA0wFcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T05:07:58.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\source\\iot-wpf-2025\\day08\\Day08Study\\WpfSmartHomeApp\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfSmartHomeApp\\Views\\MainWindow.xaml",
+              "ToolTip": "C:\\source\\iot-wpf-2025\\day08\\Day08Study\\WpfSmartHomeApp\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "WpfSmartHomeApp\\Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-19T04:49:59.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\source\\iot-wpf-2025\\day08\\Day08Study\\WpfSmartHomeApp\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfSmartHomeApp\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\source\\iot-wpf-2025\\day08\\Day08Study\\WpfSmartHomeApp\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfSmartHomeApp\\Views\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T04:52:05.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResourcePart.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Users\\Admin\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
+              "ToolTip": "C:\\Users\\Admin\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs [\uC77D\uAE30 \uC804\uC6A9]",
+              "RelativeToolTip": "..\\..\\..\\..\\Users\\Admin\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs [\uC77D\uAE30 \uC804\uC6A9]",
+              "ViewState": "AgIAABQAAAAAAAAAAAAowCcAAAAEAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T05:38:49.9Z",
+              "EditorCaption": " [\uC77D\uAE30 \uC804\uC6A9]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\source\\iot-wpf-2025\\day08\\Day08Study\\WpfSmartHomeApp\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "WpfSmartHomeApp\\AssemblyInfo.cs",
+              "ToolTip": "C:\\source\\iot-wpf-2025\\day08\\Day08Study\\WpfSmartHomeApp\\AssemblyInfo.cs",
+              "RelativeToolTip": "WpfSmartHomeApp\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T05:12:02.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\source\\iot-wpf-2025\\day08\\Day08Study\\WpfSmartHomeApp\\App.xaml",
+              "RelativeDocumentMoniker": "WpfSmartHomeApp\\App.xaml",
+              "ToolTip": "C:\\source\\iot-wpf-2025\\day08\\Day08Study\\WpfSmartHomeApp\\App.xaml",
+              "RelativeToolTip": "WpfSmartHomeApp\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-19T05:11:56.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BusanMatjibView.xaml.cs",
+              "DocumentMoniker": "C:\\source\\iot-wpf-2025\\day08\\Day08Study\\BusanRestaurantApp\\Views\\BusanMatjibView.xaml.cs",
+              "RelativeDocumentMoniker": "BusanRestaurantApp\\Views\\BusanMatjibView.xaml.cs",
+              "ToolTip": "C:\\source\\iot-wpf-2025\\day08\\Day08Study\\BusanRestaurantApp\\Views\\BusanMatjibView.xaml.cs",
+              "RelativeToolTip": "BusanRestaurantApp\\Views\\BusanMatjibView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T01:47:13.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GoogleMapViewModel.cs",
+              "DocumentMoniker": "C:\\source\\iot-wpf-2025\\day08\\Day08Study\\BusanRestaurantApp\\ViewModels\\GoogleMapViewModel.cs",
+              "RelativeDocumentMoniker": "BusanRestaurantApp\\ViewModels\\GoogleMapViewModel.cs",
+              "ToolTip": "C:\\source\\iot-wpf-2025\\day08\\Day08Study\\BusanRestaurantApp\\ViewModels\\GoogleMapViewModel.cs",
+              "RelativeToolTip": "BusanRestaurantApp\\ViewModels\\GoogleMapViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T01:30:50.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BusanMatjibViewModel.cs",
+              "DocumentMoniker": "C:\\source\\iot-wpf-2025\\day08\\Day08Study\\BusanRestaurantApp\\ViewModels\\BusanMatjibViewModel.cs",
+              "RelativeDocumentMoniker": "BusanRestaurantApp\\ViewModels\\BusanMatjibViewModel.cs",
+              "ToolTip": "C:\\source\\iot-wpf-2025\\day08\\Day08Study\\BusanRestaurantApp\\ViewModels\\BusanMatjibViewModel.cs",
+              "RelativeToolTip": "BusanRestaurantApp\\ViewModels\\BusanMatjibViewModel.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAiwG4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T00:22:16.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GoogleMapView.xaml",
+              "DocumentMoniker": "C:\\source\\iot-wpf-2025\\day08\\Day08Study\\BusanRestaurantApp\\Views\\GoogleMapView.xaml",
+              "RelativeDocumentMoniker": "BusanRestaurantApp\\Views\\GoogleMapView.xaml",
+              "ToolTip": "C:\\source\\iot-wpf-2025\\day08\\Day08Study\\BusanRestaurantApp\\Views\\GoogleMapView.xaml",
+              "RelativeToolTip": "BusanRestaurantApp\\Views\\GoogleMapView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-19T01:33:17.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BusanMatjibView.xaml",
+              "DocumentMoniker": "C:\\source\\iot-wpf-2025\\day08\\Day08Study\\BusanRestaurantApp\\Views\\BusanMatjibView.xaml",
+              "RelativeDocumentMoniker": "BusanRestaurantApp\\Views\\BusanMatjibView.xaml",
+              "ToolTip": "C:\\source\\iot-wpf-2025\\day08\\Day08Study\\BusanRestaurantApp\\Views\\BusanMatjibView.xaml",
+              "RelativeToolTip": "BusanRestaurantApp\\Views\\BusanMatjibView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-19T00:23:20.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BusanRestaurantApp.csproj",
+              "DocumentMoniker": "C:\\source\\iot-wpf-2025\\day08\\Day08Study\\BusanRestaurantApp\\BusanRestaurantApp.csproj",
+              "RelativeDocumentMoniker": "BusanRestaurantApp\\BusanRestaurantApp.csproj",
+              "ToolTip": "C:\\source\\iot-wpf-2025\\day08\\Day08Study\\BusanRestaurantApp\\BusanRestaurantApp.csproj",
+              "RelativeToolTip": "BusanRestaurantApp\\BusanRestaurantApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-19T00:22:10.508Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
