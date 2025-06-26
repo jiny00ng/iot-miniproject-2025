@@ -92,9 +92,8 @@
                     <DatePicker Margin="2" Width="145" 
                                 mah:TextBoxHelper.AutoWatermark="True"
                                 mah:TextBoxHelper.Watermark="계획일자"
-                                Text="{Binding SelectedSchedule.SchDate}"
                                 SelectedDateFormat="Short"                                
-                                SelectedDate="{Binding SelectedSchedule.SchDate, 
+                                SelectedDate="{Binding SelectedSchedule.SchDate, Mode=TwoWay,
                                                 Converter={StaticResource DateOnlyToDateTimeConverter}}" />
                     
                     <mah:NumericUpDown Margin="2" Width="145" 
@@ -125,7 +124,7 @@
                           mah:TextBoxHelper.Watermark="설비코드" 
                           ItemsSource="{Binding FacilityIds}"
                           DisplayMemberPath="CodeName" SelectedValuePath="BasicCode"
-                          SelectedValue="{Binding SelectedSchedule.schFacilityId}"/>
+                          SelectedValue="{Binding SelectedSchedule.SchFacilityId}"/>
 
                 <mah:NumericUpDown Grid.Row="5" Margin="2" 
                                    mah:TextBoxHelper.AutoWatermark="True"

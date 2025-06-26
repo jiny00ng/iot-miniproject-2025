@@ -3,40 +3,36 @@
   "WorkspaceRootPath": "C:\\source\\iot-miniproject-2025\\mes\\Miniproject2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D30A488F-9429-4EE5-9E4A-4F39BF430476}|WpfMrpSimulatorApp\\WpfMrpSimulatorApp.csproj|c:\\source\\iot-miniproject-2025\\mes\\miniproject2\\wpfmrpsimulatorapp\\views\\monitoringview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D30A488F-9429-4EE5-9E4A-4F39BF430476}|WpfMrpSimulatorApp\\WpfMrpSimulatorApp.csproj|solutionrelative:wpfmrpsimulatorapp\\views\\monitoringview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{A11D9C66-B83C-4E81-B464-B525BE99FFCE}|WpfIoTSimulatorApp\\WpfIoTSimulatorApp.csproj|c:\\source\\iot-miniproject-2025\\mes\\miniproject2\\wpfiotsimulatorapp\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11D9C66-B83C-4E81-B464-B525BE99FFCE}|WpfIoTSimulatorApp\\WpfIoTSimulatorApp.csproj|solutionrelative:wpfiotsimulatorapp\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D30A488F-9429-4EE5-9E4A-4F39BF430476}|WpfMrpSimulatorApp\\WpfMrpSimulatorApp.csproj|c:\\source\\iot-miniproject-2025\\mes\\miniproject2\\wpfmrpsimulatorapp\\viewmodels\\scheduleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D30A488F-9429-4EE5-9E4A-4F39BF430476}|WpfMrpSimulatorApp\\WpfMrpSimulatorApp.csproj|solutionrelative:wpfmrpsimulatorapp\\viewmodels\\scheduleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D30A488F-9429-4EE5-9E4A-4F39BF430476}|WpfMrpSimulatorApp\\WpfMrpSimulatorApp.csproj|c:\\source\\iot-miniproject-2025\\mes\\miniproject2\\wpfmrpsimulatorapp\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D30A488F-9429-4EE5-9E4A-4F39BF430476}|WpfMrpSimulatorApp\\WpfMrpSimulatorApp.csproj|solutionrelative:wpfmrpsimulatorapp\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D30A488F-9429-4EE5-9E4A-4F39BF430476}|WpfMrpSimulatorApp\\WpfMrpSimulatorApp.csproj|c:\\source\\iot-miniproject-2025\\mes\\miniproject2\\wpfmrpsimulatorapp\\viewmodels\\monitoringviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D30A488F-9429-4EE5-9E4A-4F39BF430476}|WpfMrpSimulatorApp\\WpfMrpSimulatorApp.csproj|solutionrelative:wpfmrpsimulatorapp\\viewmodels\\monitoringviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D30A488F-9429-4EE5-9E4A-4F39BF430476}|WpfMrpSimulatorApp\\WpfMrpSimulatorApp.csproj|c:\\source\\iot-miniproject-2025\\mes\\miniproject2\\wpfmrpsimulatorapp\\views\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D30A488F-9429-4EE5-9E4A-4F39BF430476}|WpfMrpSimulatorApp\\WpfMrpSimulatorApp.csproj|solutionrelative:wpfmrpsimulatorapp\\views\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A11D9C66-B83C-4E81-B464-B525BE99FFCE}|WpfIoTSimulatorApp\\WpfIoTSimulatorApp.csproj|c:\\source\\iot-miniproject-2025\\mes\\miniproject2\\wpfiotsimulatorapp\\views\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A11D9C66-B83C-4E81-B464-B525BE99FFCE}|WpfIoTSimulatorApp\\WpfIoTSimulatorApp.csproj|solutionrelative:wpfiotsimulatorapp\\views\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C377D84-525E-892E-BC14-F2DC7447F896}|WpfMqttSubApp\\WpfMqttSubApp.csproj|c:\\source\\iot-miniproject-2025\\mes\\miniproject2\\wpfmqttsubapp\\views\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{8C377D84-525E-892E-BC14-F2DC7447F896}|WpfMqttSubApp\\WpfMqttSubApp.csproj|solutionrelative:wpfmqttsubapp\\views\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{D30A488F-9429-4EE5-9E4A-4F39BF430476}|WpfMrpSimulatorApp\\WpfMrpSimulatorApp.csproj|c:\\source\\iot-miniproject-2025\\mes\\miniproject2\\wpfmrpsimulatorapp\\views\\monitoringview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D30A488F-9429-4EE5-9E4A-4F39BF430476}|WpfMrpSimulatorApp\\WpfMrpSimulatorApp.csproj|solutionrelative:wpfmrpsimulatorapp\\views\\monitoringview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D30A488F-9429-4EE5-9E4A-4F39BF430476}|WpfMrpSimulatorApp\\WpfMrpSimulatorApp.csproj|c:\\source\\iot-miniproject-2025\\mes\\miniproject2\\wpfmrpsimulatorapp\\views\\scheduleview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{D30A488F-9429-4EE5-9E4A-4F39BF430476}|WpfMrpSimulatorApp\\WpfMrpSimulatorApp.csproj|solutionrelative:wpfmrpsimulatorapp\\views\\scheduleview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D30A488F-9429-4EE5-9E4A-4F39BF430476}|WpfMrpSimulatorApp\\WpfMrpSimulatorApp.csproj|c:\\source\\iot-miniproject-2025\\mes\\miniproject2\\wpfmrpsimulatorapp\\viewmodels\\settingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D30A488F-9429-4EE5-9E4A-4F39BF430476}|WpfMrpSimulatorApp\\WpfMrpSimulatorApp.csproj|solutionrelative:wpfmrpsimulatorapp\\viewmodels\\settingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8C377D84-525E-892E-BC14-F2DC7447F896}|WpfMqttSubApp\\WpfMqttSubApp.csproj|c:\\source\\iot-miniproject-2025\\mes\\miniproject2\\wpfmqttsubapp\\models\\iotdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C377D84-525E-892E-BC14-F2DC7447F896}|WpfMqttSubApp\\WpfMqttSubApp.csproj|solutionrelative:wpfmqttsubapp\\models\\iotdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D30A488F-9429-4EE5-9E4A-4F39BF430476}|WpfMrpSimulatorApp\\WpfMrpSimulatorApp.csproj|c:\\source\\iot-miniproject-2025\\mes\\miniproject2\\wpfmrpsimulatorapp\\views\\monitoringview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D30A488F-9429-4EE5-9E4A-4F39BF430476}|WpfMrpSimulatorApp\\WpfMrpSimulatorApp.csproj|solutionrelative:wpfmrpsimulatorapp\\views\\monitoringview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D30A488F-9429-4EE5-9E4A-4F39BF430476}|WpfMrpSimulatorApp\\WpfMrpSimulatorApp.csproj|c:\\source\\iot-miniproject-2025\\mes\\miniproject2\\wpfmrpsimulatorapp\\viewmodels\\scheduleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D30A488F-9429-4EE5-9E4A-4F39BF430476}|WpfMrpSimulatorApp\\WpfMrpSimulatorApp.csproj|solutionrelative:wpfmrpsimulatorapp\\viewmodels\\scheduleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D30A488F-9429-4EE5-9E4A-4F39BF430476}|WpfMrpSimulatorApp\\WpfMrpSimulatorApp.csproj|c:\\source\\iot-miniproject-2025\\mes\\miniproject2\\wpfmrpsimulatorapp\\models\\checkresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D30A488F-9429-4EE5-9E4A-4F39BF430476}|WpfMrpSimulatorApp\\WpfMrpSimulatorApp.csproj|solutionrelative:wpfmrpsimulatorapp\\models\\checkresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,101 +50,91 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ScheduleViewModel.cs",
-              "DocumentMoniker": "C:\\source\\iot-miniproject-2025\\mes\\Miniproject2\\WpfMrpSimulatorApp\\ViewModels\\ScheduleViewModel.cs",
-              "RelativeDocumentMoniker": "WpfMrpSimulatorApp\\ViewModels\\ScheduleViewModel.cs",
-              "ToolTip": "C:\\source\\iot-miniproject-2025\\mes\\Miniproject2\\WpfMrpSimulatorApp\\ViewModels\\ScheduleViewModel.cs",
-              "RelativeToolTip": "WpfMrpSimulatorApp\\ViewModels\\ScheduleViewModel.cs",
-              "ViewState": "AgIAAAQBAAAAAAAAAADwvxUBAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T03:31:01.273Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MainView.xaml",
-              "DocumentMoniker": "C:\\source\\iot-miniproject-2025\\mes\\Miniproject2\\WpfIoTSimulatorApp\\Views\\MainView.xaml",
-              "RelativeDocumentMoniker": "WpfIoTSimulatorApp\\Views\\MainView.xaml",
-              "ToolTip": "C:\\source\\iot-miniproject-2025\\mes\\Miniproject2\\WpfIoTSimulatorApp\\Views\\MainView.xaml",
-              "RelativeToolTip": "WpfIoTSimulatorApp\\Views\\MainView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-25T02:48:04.991Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "MainView.xaml",
-              "DocumentMoniker": "C:\\source\\iot-miniproject-2025\\mes\\Miniproject2\\WpfMqttSubApp\\Views\\MainView.xaml",
-              "RelativeDocumentMoniker": "WpfMqttSubApp\\Views\\MainView.xaml",
-              "ToolTip": "C:\\source\\iot-miniproject-2025\\mes\\Miniproject2\\WpfMqttSubApp\\Views\\MainView.xaml",
-              "RelativeToolTip": "WpfMqttSubApp\\Views\\MainView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-25T02:47:57.91Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ScheduleView.xaml",
-              "DocumentMoniker": "C:\\source\\iot-miniproject-2025\\mes\\Miniproject2\\WpfMrpSimulatorApp\\Views\\ScheduleView.xaml",
-              "RelativeDocumentMoniker": "WpfMrpSimulatorApp\\Views\\ScheduleView.xaml",
-              "ToolTip": "C:\\source\\iot-miniproject-2025\\mes\\Miniproject2\\WpfMrpSimulatorApp\\Views\\ScheduleView.xaml",
-              "RelativeToolTip": "WpfMrpSimulatorApp\\Views\\ScheduleView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-25T02:36:00.087Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainView.xaml",
-              "DocumentMoniker": "C:\\source\\iot-miniproject-2025\\mes\\Miniproject2\\WpfMrpSimulatorApp\\Views\\MainView.xaml",
-              "RelativeDocumentMoniker": "WpfMrpSimulatorApp\\Views\\MainView.xaml",
-              "ToolTip": "C:\\source\\iot-miniproject-2025\\mes\\Miniproject2\\WpfMrpSimulatorApp\\Views\\MainView.xaml",
-              "RelativeToolTip": "WpfMrpSimulatorApp\\Views\\MainView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-25T02:35:50.447Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "SettingViewModel.cs",
-              "DocumentMoniker": "C:\\source\\iot-miniproject-2025\\mes\\Miniproject2\\WpfMrpSimulatorApp\\ViewModels\\SettingViewModel.cs",
-              "RelativeDocumentMoniker": "WpfMrpSimulatorApp\\ViewModels\\SettingViewModel.cs",
-              "ToolTip": "C:\\source\\iot-miniproject-2025\\mes\\Miniproject2\\WpfMrpSimulatorApp\\ViewModels\\SettingViewModel.cs",
-              "RelativeToolTip": "WpfMrpSimulatorApp\\ViewModels\\SettingViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Title": "IotDbContext.cs",
+              "DocumentMoniker": "C:\\source\\iot-miniproject-2025\\mes\\Miniproject2\\WpfMqttSubApp\\Models\\IotDbContext.cs",
+              "RelativeDocumentMoniker": "WpfMqttSubApp\\Models\\IotDbContext.cs",
+              "ToolTip": "C:\\source\\iot-miniproject-2025\\mes\\Miniproject2\\WpfMqttSubApp\\Models\\IotDbContext.cs",
+              "RelativeToolTip": "WpfMqttSubApp\\Models\\IotDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAMwBkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T02:31:41.943Z",
+              "WhenOpened": "2025-06-26T03:12:22.995Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\source\\iot-miniproject-2025\\mes\\Miniproject2\\WpfIoTSimulatorApp\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "WpfIoTSimulatorApp\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\source\\iot-miniproject-2025\\mes\\Miniproject2\\WpfIoTSimulatorApp\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "WpfIoTSimulatorApp\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T03:10:54.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\source\\iot-miniproject-2025\\mes\\Miniproject2\\WpfMrpSimulatorApp\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "WpfMrpSimulatorApp\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\source\\iot-miniproject-2025\\mes\\Miniproject2\\WpfMrpSimulatorApp\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "WpfMrpSimulatorApp\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T03:02:50.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CheckResult.cs",
+              "DocumentMoniker": "C:\\source\\iot-miniproject-2025\\mes\\Miniproject2\\WpfMrpSimulatorApp\\Models\\CheckResult.cs",
+              "RelativeDocumentMoniker": "WpfMrpSimulatorApp\\Models\\CheckResult.cs",
+              "ToolTip": "C:\\source\\iot-miniproject-2025\\mes\\Miniproject2\\WpfMrpSimulatorApp\\Models\\CheckResult.cs",
+              "RelativeToolTip": "WpfMrpSimulatorApp\\Models\\CheckResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T02:49:19.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ScheduleViewModel.cs",
+              "DocumentMoniker": "C:\\source\\iot-miniproject-2025\\mes\\Miniproject2\\WpfMrpSimulatorApp\\ViewModels\\ScheduleViewModel.cs",
+              "RelativeDocumentMoniker": "WpfMrpSimulatorApp\\ViewModels\\ScheduleViewModel.cs",
+              "ToolTip": "C:\\source\\iot-miniproject-2025\\mes\\Miniproject2\\WpfMrpSimulatorApp\\ViewModels\\ScheduleViewModel.cs",
+              "RelativeToolTip": "WpfMrpSimulatorApp\\ViewModels\\ScheduleViewModel.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAEwF8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T01:52:04.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "MonitoringView.xaml",
               "DocumentMoniker": "C:\\source\\iot-miniproject-2025\\mes\\Miniproject2\\WpfMrpSimulatorApp\\Views\\MonitoringView.xaml",
               "RelativeDocumentMoniker": "WpfMrpSimulatorApp\\Views\\MonitoringView.xaml",
               "ToolTip": "C:\\source\\iot-miniproject-2025\\mes\\Miniproject2\\WpfMrpSimulatorApp\\Views\\MonitoringView.xaml",
               "RelativeToolTip": "WpfMrpSimulatorApp\\Views\\MonitoringView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-25T02:30:13.888Z",
+              "WhenOpened": "2025-06-26T01:24:50.287Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "MonitoringView.xaml.cs",
-              "DocumentMoniker": "C:\\source\\iot-miniproject-2025\\mes\\Miniproject2\\WpfMrpSimulatorApp\\Views\\MonitoringView.xaml.cs",
-              "RelativeDocumentMoniker": "WpfMrpSimulatorApp\\Views\\MonitoringView.xaml.cs",
-              "ToolTip": "C:\\source\\iot-miniproject-2025\\mes\\Miniproject2\\WpfMrpSimulatorApp\\Views\\MonitoringView.xaml.cs",
-              "RelativeToolTip": "WpfMrpSimulatorApp\\Views\\MonitoringView.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T02:29:25.824Z",
+              "DocumentIndex": 4,
+              "Title": "ScheduleView.xaml",
+              "DocumentMoniker": "C:\\source\\iot-miniproject-2025\\mes\\Miniproject2\\WpfMrpSimulatorApp\\Views\\ScheduleView.xaml",
+              "RelativeDocumentMoniker": "WpfMrpSimulatorApp\\Views\\ScheduleView.xaml",
+              "ToolTip": "C:\\source\\iot-miniproject-2025\\mes\\Miniproject2\\WpfMrpSimulatorApp\\Views\\ScheduleView.xaml",
+              "RelativeToolTip": "WpfMrpSimulatorApp\\Views\\ScheduleView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-26T01:24:46.777Z",
               "EditorCaption": ""
             },
             {
@@ -159,9 +145,9 @@
               "RelativeDocumentMoniker": "WpfMrpSimulatorApp\\ViewModels\\MonitoringViewModel.cs",
               "ToolTip": "C:\\source\\iot-miniproject-2025\\mes\\Miniproject2\\WpfMrpSimulatorApp\\ViewModels\\MonitoringViewModel.cs",
               "RelativeToolTip": "WpfMrpSimulatorApp\\ViewModels\\MonitoringViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABLAAAAAAAAAA==",
+              "ViewState": "AgIAAPMAAAAAAAAAAAAewAcBAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T02:28:37.048Z",
+              "WhenOpened": "2025-06-26T00:24:44.989Z",
               "EditorCaption": ""
             }
           ]

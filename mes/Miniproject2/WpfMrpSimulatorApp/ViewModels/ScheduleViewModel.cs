@@ -99,7 +99,7 @@ namespace WpfMrpSimulatorApp.ViewModels
                 {
                     if (_selectedSchedule.SchIdx > 0)
                         CanSave = CanRemove = true; // 기존데이터가 있으면 수정, 삭제 가능
-                }
+                }                
             }
         }
 
