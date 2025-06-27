@@ -142,9 +142,14 @@ https://github.com/user-attachments/assets/05e5fc57-9f08-4fd4-a8b8-02aa1909a7c3
     - Start 버튼 눌러서 IoT Simulator 동작시키고 동기화
     - 체크 이후 성공/실패 결과 DB에 저장, 실시간 시각화 
 
-17. ReportView, ReportViewModel 작업
 
-#### 파이썬 AI + ASP.NET 연동(나중에)
+
+##### 추후 작업(Miniproject 3)
+1. ReportView, ReportViewModel LiveChart 작업
+2. MainView 상태표시줄 완성
+3. 예외처리 마무리
+
+#### 파이썬 AI + ASP.NET 연동(Miniproject 3)
 - 참조소스
 - iot-webapp-2025/ref/ReferencedSolution/ConvertWebApp
 - hungout-with-springboot/003_aicombo/
