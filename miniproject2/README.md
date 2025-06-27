@@ -144,6 +144,10 @@ https://github.com/user-attachments/assets/05e5fc57-9f08-4fd4-a8b8-02aa1909a7c3
 
 
 
+https://github.com/user-attachments/assets/74ccbb7e-749d-4aa0-a30e-54bb3954f764
+
+
+
 ##### 추후 작업(Miniproject 3)
 1. ReportView, ReportViewModel LiveChart 작업
 2. MainView 상태표시줄 완성
