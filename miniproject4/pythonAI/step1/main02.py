@@ -10,5 +10,5 @@ class Item(BaseModel):      # 클라이언트로 전송할 데이터 형식클�
     tax: float = None
 
 @app.get('/items')
-async def get_item(item: Item): # POSTMan 또는 
+async def get_item(item: Item): # POSTMan 또는 다른 API 테스트 툴로 테스트
     return item
