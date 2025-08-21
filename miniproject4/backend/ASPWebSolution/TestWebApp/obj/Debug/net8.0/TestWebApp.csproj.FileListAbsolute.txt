@@ -28,3 +28,4 @@ C:\source\iot-miniproject-2025\miniproject4\backend\ASPWebSolution\TestWebApp\ob
 C:\source\iot-miniproject-2025\miniproject4\backend\ASPWebSolution\TestWebApp\obj\Debug\net8.0\TestWebApp.pdb
 C:\source\iot-miniproject-2025\miniproject4\backend\ASPWebSolution\TestWebApp\obj\Debug\net8.0\TestWebApp.genruntimeconfig.cache
 C:\source\iot-miniproject-2025\miniproject4\backend\ASPWebSolution\TestWebApp\obj\Debug\net8.0\ref\TestWebApp.dll
+C:\source\iot-miniproject-2025\miniproject4\backend\ASPWebSolution\TestWebApp\bin\Debug\net8.0\TestWebApp.staticwebassets.runtime.json

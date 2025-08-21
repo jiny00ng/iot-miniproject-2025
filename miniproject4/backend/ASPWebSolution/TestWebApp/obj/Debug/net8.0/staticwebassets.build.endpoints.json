@@ -1,5 +1,88 @@
 {
   "Version": 1,
   "ManifestType": "Build",
-  "Endpoints": []
+  "Endpoints": [
+    {
+      "Route": "index.62x44defi6.html",
+      "AssetFile": "index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "147"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ogdZCP755xyAS8l/TkvAiLV6K4AznfYlOieuKdm4zoc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 20 Aug 2025 01:52:27 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "62x44defi6"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ogdZCP755xyAS8l/TkvAiLV6K4AznfYlOieuKdm4zoc="
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "147"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ogdZCP755xyAS8l/TkvAiLV6K4AznfYlOieuKdm4zoc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 20 Aug 2025 01:52:27 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ogdZCP755xyAS8l/TkvAiLV6K4AznfYlOieuKdm4zoc="
+        }
+      ]
+    }
+  ]
 }

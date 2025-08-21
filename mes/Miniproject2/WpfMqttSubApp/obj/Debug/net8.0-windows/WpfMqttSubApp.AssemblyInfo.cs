@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WpfMqttSubApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+405456a2993ad7775a3dc255185a6f4ced8160e1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b89054e8ff65fbe30ea12f95cbe4e11dae085813")]
 [assembly: System.Reflection.AssemblyProductAttribute("WpfMqttSubApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WpfMqttSubApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\source\\iot-miniproject-2025\\miniproject4\\backend\\ASPWebSolution\\TestWebApp\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TestWebApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TestWebApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TestWebApp.props",
+      "PackagePath": "build\\TestWebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TestWebApp.props",
+      "PackagePath": "buildMultiTargeting\\TestWebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TestWebApp.props",
+      "PackagePath": "buildTransitive\\TestWebApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

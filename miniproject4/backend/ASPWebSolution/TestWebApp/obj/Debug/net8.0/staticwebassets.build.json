@@ -1,12 +1,125 @@
 {
   "Version": 1,
-  "Hash": "hi+gM4OntxA6iZvIHy8FJ4+cSES6LZxn7QxmzTIyo4E=",
+  "Hash": "wlCtjx2EjIKt3xhNNZ9LhPSkxkb7hzHeElQPsa2S2tA=",
   "Source": "TestWebApp",
   "BasePath": "_content/TestWebApp",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "TestWebApp\\wwwroot",
+      "Source": "TestWebApp",
+      "ContentRoot": "C:\\source\\iot-miniproject-2025\\miniproject4\\backend\\ASPWebSolution\\TestWebApp\\wwwroot\\",
+      "BasePath": "_content/TestWebApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\source\\iot-miniproject-2025\\miniproject4\\backend\\ASPWebSolution\\TestWebApp\\wwwroot\\index.html",
+      "SourceId": "TestWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\source\\iot-miniproject-2025\\miniproject4\\backend\\ASPWebSolution\\TestWebApp\\wwwroot\\",
+      "BasePath": "_content/TestWebApp",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "62x44defi6",
+      "Integrity": "ogdZCP755xyAS8l/TkvAiLV6K4AznfYlOieuKdm4zoc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.62x44defi6.html",
+      "AssetFile": "C:\\source\\iot-miniproject-2025\\miniproject4\\backend\\ASPWebSolution\\TestWebApp\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "147"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ogdZCP755xyAS8l/TkvAiLV6K4AznfYlOieuKdm4zoc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 20 Aug 2025 01:52:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "62x44defi6"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ogdZCP755xyAS8l/TkvAiLV6K4AznfYlOieuKdm4zoc="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\source\\iot-miniproject-2025\\miniproject4\\backend\\ASPWebSolution\\TestWebApp\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "147"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ogdZCP755xyAS8l/TkvAiLV6K4AznfYlOieuKdm4zoc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 20 Aug 2025 01:52:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ogdZCP755xyAS8l/TkvAiLV6K4AznfYlOieuKdm4zoc="
+        }
+      ]
+    }
+  ]
 }

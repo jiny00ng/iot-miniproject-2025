@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "x8C3rECnO44d1FMLHPbCQw55gBulcOB+Bc98Dm/KcoM=",
+  "Source": "ASPWebApp",
+  "BasePath": "_content/ASPWebApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ASPWebApp\\wwwroot",
+      "Source": "ASPWebApp",
+      "ContentRoot": "C:\\source\\iot-miniproject-2025\\miniproject4\\backend\\ASPWebSolution\\ASPWebApp\\wwwroot\\",
+      "BasePath": "_content/ASPWebApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\source\\iot-miniproject-2025\\miniproject4\\backend\\ASPWebSolution\\ASPWebApp\\wwwroot\\index.html",
+      "SourceId": "ASPWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\source\\iot-miniproject-2025\\miniproject4\\backend\\ASPWebSolution\\ASPWebApp\\wwwroot\\",
+      "BasePath": "_content/ASPWebApp",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3ehj9xfa5r",
+      "Integrity": "yxtl/2Rcp0Fz4WfJbODFUEIlwhKfkv/UD1TTNW4lQik=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.3ehj9xfa5r.html",
+      "AssetFile": "C:\\source\\iot-miniproject-2025\\miniproject4\\backend\\ASPWebSolution\\ASPWebApp\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4461"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yxtl/2Rcp0Fz4WfJbODFUEIlwhKfkv/UD1TTNW4lQik=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 21 Aug 2025 03:10:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3ehj9xfa5r"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yxtl/2Rcp0Fz4WfJbODFUEIlwhKfkv/UD1TTNW4lQik="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\source\\iot-miniproject-2025\\miniproject4\\backend\\ASPWebSolution\\ASPWebApp\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4461"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yxtl/2Rcp0Fz4WfJbODFUEIlwhKfkv/UD1TTNW4lQik=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 21 Aug 2025 03:10:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yxtl/2Rcp0Fz4WfJbODFUEIlwhKfkv/UD1TTNW4lQik="
+        }
+      ]
+    }
+  ]
+}

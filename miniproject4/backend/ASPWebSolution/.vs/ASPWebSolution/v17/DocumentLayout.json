@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\source\\iot-miniproject-2025\\miniproject4\\backend\\ASPWebSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8AD728A8-66FE-466A-A2BB-54D43AA266A3}|TestWebApp\\TestWebApp.csproj|c:\\source\\iot-miniproject-2025\\miniproject4\\backend\\aspwebsolution\\testwebapp\\properties\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8AD728A8-66FE-466A-A2BB-54D43AA266A3}|TestWebApp\\TestWebApp.csproj|solutionrelative:testwebapp\\properties\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{AAD5563B-F4F3-43FF-BC89-38CEBFE9B1A9}|ASPWebApp\\ASPWebApp.csproj|c:\\source\\iot-miniproject-2025\\miniproject4\\backend\\aspwebsolution\\aspwebapp\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AAD5563B-F4F3-43FF-BC89-38CEBFE9B1A9}|ASPWebApp\\ASPWebApp.csproj|solutionrelative:aspwebapp\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8AD728A8-66FE-466A-A2BB-54D43AA266A3}|TestWebApp\\TestWebApp.csproj|c:\\source\\iot-miniproject-2025\\miniproject4\\backend\\aspwebsolution\\testwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8AD728A8-66FE-466A-A2BB-54D43AA266A3}|TestWebApp\\TestWebApp.csproj|solutionrelative:testwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AAD5563B-F4F3-43FF-BC89-38CEBFE9B1A9}|ASPWebApp\\ASPWebApp.csproj|c:\\source\\iot-miniproject-2025\\miniproject4\\backend\\aspwebsolution\\aspwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAD5563B-F4F3-43FF-BC89-38CEBFE9B1A9}|ASPWebApp\\ASPWebApp.csproj|solutionrelative:aspwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAD5563B-F4F3-43FF-BC89-38CEBFE9B1A9}|ASPWebApp\\ASPWebApp.csproj|c:\\source\\iot-miniproject-2025\\miniproject4\\backend\\aspwebsolution\\aspwebapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AAD5563B-F4F3-43FF-BC89-38CEBFE9B1A9}|ASPWebApp\\ASPWebApp.csproj|solutionrelative:aspwebapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8AD728A8-66FE-466A-A2BB-54D43AA266A3}|TestWebApp\\TestWebApp.csproj|c:\\source\\iot-miniproject-2025\\miniproject4\\backend\\aspwebsolution\\testwebapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -32,18 +36,31 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "index.html",
-              "DocumentMoniker": "C:\\source\\iot-miniproject-2025\\miniproject4\\backend\\ASPWebSolution\\TestWebApp\\Properties\\wwwroot\\index.html",
-              "RelativeDocumentMoniker": "TestWebApp\\Properties\\wwwroot\\index.html",
-              "ToolTip": "C:\\source\\iot-miniproject-2025\\miniproject4\\backend\\ASPWebSolution\\TestWebApp\\Properties\\wwwroot\\index.html",
-              "RelativeToolTip": "TestWebApp\\Properties\\wwwroot\\index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\source\\iot-miniproject-2025\\miniproject4\\backend\\ASPWebSolution\\ASPWebApp\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "ASPWebApp\\wwwroot\\index.html",
+              "ToolTip": "C:\\source\\iot-miniproject-2025\\miniproject4\\backend\\ASPWebSolution\\ASPWebApp\\wwwroot\\index.html",
+              "RelativeToolTip": "ASPWebApp\\wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-08-20T01:51:18.35Z",
+              "WhenOpened": "2025-08-21T02:06:28.227Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\source\\iot-miniproject-2025\\miniproject4\\backend\\ASPWebSolution\\ASPWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "ASPWebApp\\Program.cs",
+              "ToolTip": "C:\\source\\iot-miniproject-2025\\miniproject4\\backend\\ASPWebSolution\\ASPWebApp\\Program.cs",
+              "RelativeToolTip": "ASPWebApp\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T01:47:44.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\source\\iot-miniproject-2025\\miniproject4\\backend\\ASPWebSolution\\TestWebApp\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "TestWebApp\\Properties\\launchSettings.json",
@@ -51,20 +68,20 @@
               "RelativeToolTip": "TestWebApp\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-20T01:40:25.881Z",
+              "WhenOpened": "2025-08-21T01:47:07.261Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\source\\iot-miniproject-2025\\miniproject4\\backend\\ASPWebSolution\\TestWebApp\\Program.cs",
-              "RelativeDocumentMoniker": "TestWebApp\\Program.cs",
-              "ToolTip": "C:\\source\\iot-miniproject-2025\\miniproject4\\backend\\ASPWebSolution\\TestWebApp\\Program.cs",
-              "RelativeToolTip": "TestWebApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T01:40:08.55Z",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\source\\iot-miniproject-2025\\miniproject4\\backend\\ASPWebSolution\\ASPWebApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ASPWebApp\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\source\\iot-miniproject-2025\\miniproject4\\backend\\ASPWebSolution\\ASPWebApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ASPWebApp\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-21T01:46:37.064Z",
               "EditorCaption": ""
             }
           ]
