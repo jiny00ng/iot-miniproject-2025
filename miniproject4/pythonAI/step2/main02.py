@@ -5,10 +5,10 @@ import io
 import base64
 from PIL import Image, ImageDraw, ImageFont
 import numpy as np
-import uvicorn, cv2
+import uvicorn
 
 from ultralytics import YOLO
-# import cv2   # OpenCV
+import cv2   # OpenCV
 
 app = FastAPI()
 
@@ -25,10 +25,10 @@ def detectObjects(image: Image.Image):
     results = model(img)        # 객체탐지, 물체 여러개
     class_name = model.names        # person, clock, car...    
 
-    # 그리기 준비
-    annotated = image.convert('RGB').copy()  # 원본을 복사
-    draw = ImageDraw.Draw(annotated)  # 복사본 이미지
-    font = ImageFont.load_default()
+    # 그리기 준비 Pillow
+    # annotated = image.convert('RGB').copy()  # 원본을 복사
+    # draw = ImageDraw.Draw(annotated)  # 복사본 이미지
+    # font = ImageFont.load_default()
 
     for result in results:       # 여러개 물체들을 반복
         boxes = result.boxes.xyxy       
@@ -41,27 +41,26 @@ def detectObjects(image: Image.Image):
 
             # 각 인식된 객체에 사각형            
             # draw.rectangle([x1, y1, x2, y2], outline=(255,0,0), width=3)
-            cv2.rectangle(img, (x1,y1), (x2,y2), (255,0,0), thickness=2)
-            # HACK: 종류별로 색상 다르게, 라벨(클래스명)
+            cv2.rectangle(img,(x1,y1), (x2,y2), (255,0,0), thickness=2)
+            # HACK : 종류별로 색상 다르게, 라벨(클래스명)
             cv2.putText(img, f'{label} {confience:.2f}', (x1+7,y1+15), cv2.FONT_HERSHEY_SIMPLEX, 0.5, (255,0,0), 2)
-
-    result = Image.fromarray(img)       # 결과를 다시 Pillow로 변환
-    
-    return annotated
+            
+    result = Image.fromarray(img)                 # 결과를 다시 Pillow로 변환
+    return result
 
 @app.get('/')
 async def index():
-    # image = Image.open('./test.jpg')  # 이미지 로드
-    # result = detectObjects(image)
-    # result.save('result.jpg')
+    image = Image.open('./test.jpg')  # 이미지 로드
+    result = detectObjects(image)
+    result.save('result.jpg')
      
-    return { 'message': 'Hello FastAPI'} #, 'result': 'Image saved!' }
+    return { 'message': 'Hello FastAPI' } #, 'result': 'Image saved!' }
 
-# ASP.NET에서 전달받은 이미지로 객체 인식, 인식결과를 다시 ASP.NET으로 전달 
+# ASP.NET에서 전달받은 이미지로 객체 인식, 인식결과를 다시 ASP.NET으로 전달
 @app.post('/detect', response_model=DetectionResult)
 async def detectService(message: str = Form(...), file: UploadFile = File(...)):
-    # 이미지를 읽어서 PIL 이미지로 변환
-    image = Image.open(to.BytesIO(await file.read()))   # 웹으로 전달된 이미지 객체 로드
+    # 이미지 읽어서 PIL 이미지로 변환
+    image = Image.open(io.BytesIO(await file.read()))  # 웹으로 전달된 이미지 객체 로드
 
     # RGB 변환
     if image.mode != 'RGB':
@@ -76,8 +75,9 @@ async def detectService(message: str = Form(...), file: UploadFile = File(...)):
 
     # JSON으로 이미지 전달하려면 base64로 인코딩된 문자열로 전달
     img_str = base64.b64encode(buffered.getvalue()).decode('utf-8')
-    
+
     return DetectionResult(message=message, image=img_str)
+
 
 if __name__ == '__main__':
     uvicorn.run(app, host='127.0.0.1', port=8000)

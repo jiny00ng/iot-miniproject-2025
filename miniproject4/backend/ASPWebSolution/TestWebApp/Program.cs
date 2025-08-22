@@ -1,35 +1,34 @@
-ï»¿namespace TestWebApp
+namespace TestWebApp
 {
     public class Program
     {
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
-            
-            // HTTPClient ë“±ë¡
-            builder.Services.AddHttpClient("MyClient", client =>
+
+            // HttpClient µî·Ï
+            builder.Services.AddHttpClient("MyWebClient", client =>
             {
-                client.BaseAddress = new Uri("https://localhost:8000");     // Python Uvicorn ì„œë¹„ìŠ¤ URL
+                client.BaseAddress = new Uri("http://localhost:8000");  // Python Uvcorn ¼­ºñ½º URL
             });
 
-            // CORS í—ˆìš©
-            builder.Services.AddCors(options =>
-            {
-                // í…ŒìŠ¤íŠ¸ ì‹œì—ë§Œ ì‚¬ìš©. ìš´ì˜ë•ŒëŠ” ì‹¤ì œ ì•„ì´í”¼, ì‹¤ì œ ì‚¬ìš©í•˜ëŠ” ë©”ì„œë“œë§Œ í—ˆìš©í•´ì•¼ í•¨
+            // CORS Çã¿ë
+            builder.Services.AddCors(options => {
+                // Å×½ºÆ® ½Ã¿¡¸¸ »ç¿ë. ¿î¿µ¶§´Â ½ÇÁ¦ ¾ÆÀÌÇÇ, ½ÇÁ¦ »ç¿ëÇÏ´Â ¸Ş¼­µå¸¸ Çã¿ëÇØÁà¾ß ÇÔ
                 options.AddDefaultPolicy(policy =>
                 {
                     policy.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader();
                 });
             });
 
-            builder.Services.AddControllers();  // ì»¨íŠ¸ë¡¤ëŸ¬ ì‚¬ìš© í—ˆìš©
+            builder.Services.AddControllers();   // ÄÁÆ®·Ñ·¯ »ç¿ë Çã¿ë
             var app = builder.Build();
 
             //app.MapGet("/", () => "Hello World!");
-            app.UseCors();  // ìœ„ì—ì„œ ì„¤ì •í•œ CORSë¥¼ ì‚¬ìš©í•˜ê² ë‹¤
-            app.UseDefaultFiles();  // index.html íŒŒì¼ì„ ìë™ì²˜ë¦¬
-            app.UseStaticFiles();  // wwwroot í´ë” ì‚¬ìš© í—ˆìš©
-            app.MapControllers();  // ì»¨íŠ¸ë¡¤ëŸ¬ ê¸°ë°˜ ë§¤í•‘(ì‚¬ìš©)í•˜ê² ë‹¤
+            app.UseCors();              // À§¿¡¼­ ¼³Á¤ÇÑ CORS¸¦ »ç¿ëÇÏ°Ú´Ù
+            app.UseDefaultFiles();      // index.htmlÀ» ÀÚµ¿Ã³¸® ÇÏ°Ú´Ù
+            app.UseStaticFiles();       // wwwroot Æú´õ»ç¿ë Çã¿ëÇÏ°Ú´Ù
+            app.MapControllers();       // Controller ±â¹İ ¸ÅÇÎ(»ç¿ë)ÇÏ°Ú´Ù
 
             app.Run();
         }
