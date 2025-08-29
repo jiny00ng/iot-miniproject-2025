@@ -174,7 +174,7 @@ protocol websockets
 https://github.com/user-attachments/assets/70a96e30-6dc5-4077-a345-a8ef56810652
 
 
-#### 추가내용
+#### 추가내용1
 - yolov8n.pt, yolov8m.pt, yolov9c.pt 중 yolov8n.pt가 처리속도 빠름
 
 | 모델 이름        | 설명          |  특징           |
@@ -190,3 +190,11 @@ https://github.com/user-attachments/assets/70a96e30-6dc5-4077-a345-a8ef56810652
 | `yolov9m.pt` | Medium    |              |
 | `yolov9l.pt` | Large     |              |
 | `yolov9x.pt` | Xtreme    | 최고 정확도       |
+
+
+#### 추가내용2
+- 사람영역만 모자이크 처리하는 소스 추가
+
+[소스](./pythonAi/step3/main04.py)
+
+<img src="../image/mp0027.jpg" width="650">
